@@ -13,6 +13,7 @@ module.exports = {
   },
   rules: {
     "react/prop-types": "off",
+    "react/jsx-pascal-case": "off",
   },
   extends: [
     "eslint:recommended",

@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "Blog with Gatsby"
+    "name": "Simple Blog with Gatsby"
   },
   "api": {
     "projectId": "2y82xobu",
